@@ -1,0 +1,6 @@
+{
+  "name": "Home Workout",
+  "description": "Premium no-equipment home workouts with interactive skeleton joint animations, automatic structured interval timers, and local streak trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
